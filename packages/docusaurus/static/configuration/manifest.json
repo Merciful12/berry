@@ -368,8 +368,8 @@
           "format": "uri",
           "examples": ["https://npm.pkg.github.com"]
         },
-        "type": {
-          "title": "Replacement of the package's `type` field, used in the published tarball over the main one.",
+        "types": {
+          "title": "Replacement of the package's `types` field, used in the published tarball over the main one.",
           "type": "string",
           "format": "uri-reference",
           "examples": ["./build/index.d.ts"]
